@@ -49,7 +49,7 @@ export default class App extends Component {
 }
 const styles = StyleSheet.create({
   title: {
-    backgroundColor: 'blue',
+    backgroundColor: '#cd950c',
     padding: 20,
   },
   title_text: {
@@ -62,10 +62,11 @@ const styles = StyleSheet.create({
     padding: 10,
     backgroundColor: 'white',
     flex: 1,
+    borderRadius:20
   },
   button: {
     padding: 10,
-    backgroundColor: 'blue',
+    backgroundColor: '#cd950c',
     borderRadius: 5,
     marginLeft: 10,
   },
