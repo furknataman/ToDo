@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; //Todo APP
 import { Component, Node, } from 'react';
 import {
   StyleSheet,
